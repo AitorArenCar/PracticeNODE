@@ -1,6 +1,6 @@
 # Practice NODE
 
-Short description or introduction of the project.
+Simple proyect where I practiced the use of NODE and JavaScript.
 
 ## Project Structure
 
